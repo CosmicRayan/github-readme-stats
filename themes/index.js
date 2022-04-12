@@ -360,7 +360,13 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
-  }
+  },
+  "wooden_cray":{
+    title_color: "fecc4d",
+    icon_color: "a95a2d",
+    text_color: "c6bfbe",
+    bg_color: "5b2f07",
+  
 };
 
 module.exports = themes;
